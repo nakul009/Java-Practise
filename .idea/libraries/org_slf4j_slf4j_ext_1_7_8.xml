@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="org.slf4j:slf4j-ext:1.7.8" type="repository">
+    <properties maven-id="org.slf4j:slf4j-ext:1.7.8" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.8/slf4j-ext-1.7.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.8/slf4j-api-1.7.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/cal10n/cal10n-api/0.8.1/cal10n-api-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-ext/1.7.8/slf4j-ext-1.7.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.8/slf4j-api-1.7.8-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/ch/qos/cal10n/cal10n-api/0.8.1/cal10n-api-0.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
